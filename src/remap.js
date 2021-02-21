@@ -71,6 +71,9 @@ const lookup = {
   drakon: {
     target: 'jagdpietr/drakon'
   },
+  'durgod/k320': {
+    target: 'durgod/k320/ansi'
+  },
   'dztech/dz60rgb': {
     target: 'dztech/dz60rgb/v1'
   },
