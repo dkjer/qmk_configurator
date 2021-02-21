@@ -473,6 +473,7 @@ function getExclusionList() {
     'duck/octagon',
     'duck/orion',
     'durgod/k320',
+    'durgod/venus',
     'eco',
     'eek',
     'ergo42',

@@ -74,6 +74,9 @@ const lookup = {
   'durgod/k320': {
     target: 'durgod/k320/ansi'
   },
+  'durgod/venus': {
+    target: 'durgod/venus/ansi'
+  },
   'dztech/dz60rgb': {
     target: 'dztech/dz60rgb/v1'
   },
